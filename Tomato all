@@ -1,0 +1,1347 @@
+/* Tomato all */
+
+position: relative;
+width: 1920px;
+height: 2973px;
+
+background: #FCF0F0;
+
+
+/* Rectangle 28 */
+
+position: absolute;
+width: 1152px;
+height: 449.5px;
+left: 385px;
+top: 1203.5px;
+
+background: #FFFAFA;
+
+
+/* Banner */
+
+position: absolute;
+width: 1920px;
+height: 480px;
+left: 0px;
+top: 122px;
+
+
+
+/* image 6 */
+
+position: absolute;
+width: 1920px;
+height: 480px;
+left: 0px;
+top: 122px;
+
+background: url(image.png);
+
+
+/* image 7 */
+
+position: absolute;
+width: 1920px;
+height: 480px;
+left: 0px;
+top: 122px;
+
+background: url(image.png);
+
+
+/* Header */
+
+position: absolute;
+width: 1920px;
+height: 122px;
+left: 0px;
+top: 0px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 1920px;
+height: 122px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 24px rgba(0, 0, 0, 0.15);
+
+
+/* Logo */
+
+position: absolute;
+width: 166px;
+height: 83px;
+left: 394px;
+top: 20px;
+
+background: url(image.png);
+mix-blend-mode: darken;
+
+
+/* Home Company Profile Products Services R & D Contact */
+
+position: absolute;
+width: 499px;
+height: 26px;
+left: 1016px;
+top: 74px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 26px;
+text-align: right;
+
+/* Text color */
+color: #324950;
+
+
+
+/* Search */
+
+position: absolute;
+width: 350px;
+height: 29px;
+left: 1165px;
+top: 20px;
+
+
+
+/* Line 1 */
+
+position: absolute;
+width: 350px;
+height: 0px;
+left: 1165px;
+top: 49px;
+
+/* Text color */
+border: 1px solid #324950;
+
+
+/* Search */
+
+position: absolute;
+width: 53px;
+height: 21px;
+left: 1165px;
+top: 20px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+
+/* Text color */
+color: #324950;
+
+
+
+/* ico_search */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: 1497px;
+top: 21px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Text color */
+background: #324950;
+
+
+/* Vision Mission */
+
+position: absolute;
+width: 827px;
+height: 109.24px;
+left: 405px;
+top: 653px;
+
+
+
+/* Group 6 */
+
+position: absolute;
+width: 827px;
+height: 109.24px;
+left: 405px;
+top: 653px;
+
+
+
+/* Agridera Fresh Market Tomato Hybrids */
+
+position: absolute;
+width: 827px;
+height: 63px;
+left: 405px;
+top: 653px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 44px;
+line-height: 142.7%;
+/* identical to box height, or 63px */
+
+/* Text color */
+color: #324950;
+
+
+
+/* Union */
+
+position: absolute;
+width: 47.24px;
+height: 6.24px;
+left: 405px;
+top: 756px;
+
+/* Buttons */
+background: #57984C;
+
+
+/* Union */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 408.12px;
+top: 753.46px;
+
+/* Buttons */
+background: #57984C;
+transform: rotate(45deg);
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 8px;
+height: 2px;
+left: 406px;
+top: 755.59px;
+
+/* Buttons */
+background: #57984C;
+border-radius: 2px;
+transform: rotate(45deg);
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 8px;
+height: 2px;
+left: 404.59px;
+top: 761.24px;
+
+/* Buttons */
+background: #57984C;
+border-radius: 2px;
+transform: rotate(-45deg);
+
+
+/* Union */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 418.12px;
+top: 753.46px;
+
+/* Buttons */
+background: #57984C;
+transform: rotate(45deg);
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 8px;
+height: 2px;
+left: 416px;
+top: 755.59px;
+
+/* Buttons */
+background: #57984C;
+border-radius: 2px;
+transform: rotate(45deg);
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 8px;
+height: 2px;
+left: 414.59px;
+top: 761.24px;
+
+/* Buttons */
+background: #57984C;
+border-radius: 2px;
+transform: rotate(-45deg);
+
+
+/* Union */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 428.12px;
+top: 753.46px;
+
+/* Buttons */
+background: #57984C;
+transform: rotate(45deg);
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 8px;
+height: 2px;
+left: 426px;
+top: 755.59px;
+
+/* Buttons */
+background: #57984C;
+border-radius: 2px;
+transform: rotate(45deg);
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 8px;
+height: 2px;
+left: 424.59px;
+top: 761.24px;
+
+/* Buttons */
+background: #57984C;
+border-radius: 2px;
+transform: rotate(-45deg);
+
+
+/* Union */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 438.12px;
+top: 753.46px;
+
+/* Buttons */
+background: #57984C;
+transform: rotate(45deg);
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 8px;
+height: 2px;
+left: 436px;
+top: 755.59px;
+
+/* Buttons */
+background: #57984C;
+border-radius: 2px;
+transform: rotate(45deg);
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 8px;
+height: 2px;
+left: 434.59px;
+top: 761.24px;
+
+/* Buttons */
+background: #57984C;
+border-radius: 2px;
+transform: rotate(-45deg);
+
+
+/* Union */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 449.12px;
+top: 753.46px;
+
+/* Buttons */
+background: #57984C;
+transform: rotate(45deg);
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 8px;
+height: 2px;
+left: 447px;
+top: 755.59px;
+
+/* Buttons */
+background: #57984C;
+border-radius: 2px;
+transform: rotate(45deg);
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 8px;
+height: 2px;
+left: 445.59px;
+top: 761.24px;
+
+/* Buttons */
+background: #57984C;
+border-radius: 2px;
+transform: rotate(-45deg);
+
+
+/* footer */
+
+position: absolute;
+width: 1920px;
+height: 127px;
+left: 0px;
+top: 2846px;
+
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 1920px;
+height: 127px;
+left: 0px;
+top: 2846px;
+
+/* Text color */
+background: #324950;
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 1920px;
+height: 76px;
+left: 0px;
+top: 2846px;
+
+background: #2D3F45;
+
+
+/* AGRIDERA SEEDS & AGRICULTURE LTD. © 2020 */
+
+position: absolute;
+width: 295px;
+height: 20px;
+left: 812px;
+top: 2940px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 142.7%;
+/* identical to box height, or 20px */
+
+color: #B9B9B9;
+
+
+
+/* PROFILE MANAGEMENT PRODUCTS R&D LINKS SITEMAP CONTACT */
+
+position: absolute;
+width: 724px;
+height: 23px;
+left: 405px;
+top: 2873px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 142.7%;
+/* identical to box height, or 23px */
+
+color: #FFFFFF;
+
+
+
+/* Ico_in */
+
+position: absolute;
+width: 31.2px;
+height: 31.2px;
+left: 1303px;
+top: 2869px;
+
+
+
+/* linkedin 5 4 */
+
+position: absolute;
+left: 0.96%;
+right: 0.96%;
+top: 0.96%;
+bottom: 0.96%;
+
+/* Buttons */
+background: #57984C;
+
+
+/* Ico_inst */
+
+position: absolute;
+width: 31.2px;
+height: 31.2px;
+left: 1348px;
+top: 2869px;
+
+
+
+/* facebook 5 4 */
+
+position: absolute;
+left: 0.96%;
+right: 0.96%;
+top: 0.96%;
+bottom: 0.96%;
+
+/* Buttons */
+background: #57984C;
+
+
+/* Group */
+
+position: absolute;
+left: 24.04%;
+right: 24.04%;
+top: 24.36%;
+bottom: 24.04%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 24.04%;
+right: 24.04%;
+top: 24.36%;
+bottom: 24.04%;
+
+/* Buttons */
+background: #57984C;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.82%;
+right: 37.82%;
+top: 36.86%;
+bottom: 38.78%;
+
+/* Buttons */
+background: #57984C;
+
+
+/* Vector */
+
+position: absolute;
+left: 61.22%;
+right: 33.65%;
+top: 33.33%;
+bottom: 61.54%;
+
+/* Buttons */
+background: #57984C;
+
+
+/* Ico_tube */
+
+position: absolute;
+width: 31.2px;
+height: 31.2px;
+left: 1393px;
+top: 2869px;
+
+
+
+/* youtube 5 4 */
+
+position: absolute;
+left: 0.96%;
+right: 0.96%;
+top: 0.96%;
+bottom: 0.96%;
+
+/* Buttons */
+background: #57984C;
+
+
+/* Ico_tw */
+
+position: absolute;
+width: 31.2px;
+height: 31.2px;
+left: 1438px;
+top: 2869px;
+
+
+
+/* twitter 5 4 */
+
+position: absolute;
+left: 0.96%;
+right: 0.96%;
+top: 0.96%;
+bottom: 0.96%;
+
+/* Buttons */
+background: #57984C;
+
+
+/* Ico_fb */
+
+position: absolute;
+width: 31.2px;
+height: 31.2px;
+left: 1483px;
+top: 2869px;
+
+
+
+/* facebook 5 4 */
+
+position: absolute;
+left: 0.96%;
+right: 0.96%;
+top: 0.96%;
+bottom: 0.96%;
+
+/* Buttons */
+background: #57984C;
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 75px;
+height: 35px;
+left: 833px;
+top: 68px;
+
+
+
+/* Rectangle 11 */
+
+position: absolute;
+width: 96px;
+height: 33px;
+left: 1260px;
+top: 70px;
+
+
+
+/* Group 9 */
+
+position: absolute;
+width: 350px;
+height: 321px;
+left: 405px;
+top: 1773px;
+
+
+
+/* image 3 */
+
+position: absolute;
+width: 350px;
+height: 321px;
+left: 405px;
+top: 1773px;
+
+background: url(image.png);
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 350px;
+height: 69px;
+left: 405px;
+top: 2025px;
+
+background: #FFFFFF;
+
+
+/* TAG 1000 (TAG 853) Tomato Determinate Red Standard Round */
+
+position: absolute;
+width: 314px;
+height: 51px;
+left: 423px;
+top: 2034px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 142.7%;
+/* or 29px */
+text-align: center;
+
+/* Buttons */
+color: #57984C;
+
+
+
+/* Group 12 */
+
+position: absolute;
+width: 350px;
+height: 321px;
+left: 405px;
+top: 2124px;
+
+
+
+/* image 3 */
+
+position: absolute;
+width: 350px;
+height: 321px;
+left: 405px;
+top: 2124px;
+
+background: url(image.png);
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 350px;
+height: 69px;
+left: 405px;
+top: 2376px;
+
+background: #FFFFFF;
+
+
+/* TAG 1003 (TAG 834 ) Tomato Determinate Red Standard Round */
+
+position: absolute;
+width: 314px;
+height: 51px;
+left: 423px;
+top: 2385px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 142.7%;
+/* or 29px */
+text-align: center;
+
+/* Buttons */
+color: #57984C;
+
+
+
+/* Group 15 */
+
+position: absolute;
+width: 350px;
+height: 321px;
+left: 405px;
+top: 2475px;
+
+
+
+/* image 3 */
+
+position: absolute;
+width: 350px;
+height: 321px;
+left: 405px;
+top: 2475px;
+
+background: url(image.png);
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 350px;
+height: 69px;
+left: 405px;
+top: 2727px;
+
+background: #FFFFFF;
+
+
+/* TAG 1006 (TAG 898) Tomato Determinate Red Elongated */
+
+position: absolute;
+width: 268px;
+height: 51px;
+left: 446px;
+top: 2736px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 142.7%;
+/* or 29px */
+text-align: center;
+
+/* Buttons */
+color: #57984C;
+
+
+
+/* Group 10 */
+
+position: absolute;
+width: 350px;
+height: 321px;
+left: 786px;
+top: 1764px;
+
+
+
+/* image 3 */
+
+position: absolute;
+width: 350px;
+height: 321px;
+left: 786px;
+top: 1764px;
+
+background: url(image.png);
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 350px;
+height: 69px;
+left: 786px;
+top: 2016px;
+
+background: #FFFFFF;
+
+
+/* TAG 1001 (TAG 855) Tomato Determinate Red Standard Round */
+
+position: absolute;
+width: 314px;
+height: 51px;
+left: 804px;
+top: 2025px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 142.7%;
+/* or 29px */
+text-align: center;
+
+/* Buttons */
+color: #57984C;
+
+
+
+/* Group 13 */
+
+position: absolute;
+width: 350px;
+height: 321px;
+left: 785px;
+top: 2124px;
+
+
+
+/* image 3 */
+
+position: absolute;
+width: 350px;
+height: 321px;
+left: 785px;
+top: 2124px;
+
+background: url(image.png);
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 350px;
+height: 69px;
+left: 785px;
+top: 2376px;
+
+background: #FFFFFF;
+
+
+/* TAG 1004 (TAG 848) Tomato Determinate Red BEEF Round */
+
+position: absolute;
+width: 286px;
+height: 51px;
+left: 817px;
+top: 2385px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 142.7%;
+/* or 29px */
+text-align: center;
+
+/* Buttons */
+color: #57984C;
+
+
+
+/* Group 16 */
+
+position: absolute;
+width: 350px;
+height: 321px;
+left: 785px;
+top: 2475px;
+
+
+
+/* image 3 */
+
+position: absolute;
+width: 350px;
+height: 321px;
+left: 785px;
+top: 2475px;
+
+background: url(image.png);
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 350px;
+height: 69px;
+left: 785px;
+top: 2727px;
+
+background: #FFFFFF;
+
+
+/* TAG 1007 (TAG 816) Tomato Determinate Red Elongated */
+
+position: absolute;
+width: 268px;
+height: 51px;
+left: 826px;
+top: 2736px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 142.7%;
+/* or 29px */
+text-align: center;
+
+/* Buttons */
+color: #57984C;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 350px;
+height: 321px;
+left: 1165px;
+top: 1773px;
+
+
+
+/* image 3 */
+
+position: absolute;
+width: 350px;
+height: 321px;
+left: 1165px;
+top: 1773px;
+
+background: url(image.png);
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 350px;
+height: 69px;
+left: 1165px;
+top: 2025px;
+
+background: #FFFFFF;
+
+
+/* TAG 1002 (TAG 809) Tomato Determinate Red Standard Round */
+
+position: absolute;
+width: 314px;
+height: 51px;
+left: 1183px;
+top: 2034px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 142.7%;
+/* or 29px */
+text-align: center;
+
+/* Buttons */
+color: #57984C;
+
+
+
+/* Group 14 */
+
+position: absolute;
+width: 350px;
+height: 321px;
+left: 1165px;
+top: 2124px;
+
+
+
+/* image 3 */
+
+position: absolute;
+width: 350px;
+height: 321px;
+left: 1165px;
+top: 2124px;
+
+background: url(image.png);
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 350px;
+height: 69px;
+left: 1165px;
+top: 2376px;
+
+background: #FFFFFF;
+
+
+/* TAG 1005 (TAG 800) Tomato Determinate Red Standard Round */
+
+position: absolute;
+width: 314px;
+height: 51px;
+left: 1183px;
+top: 2385px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 142.7%;
+/* or 29px */
+text-align: center;
+
+/* Buttons */
+color: #57984C;
+
+
+
+/* Agridera aims to be one of the world's leading companies in the breeding, production, and marketing of tomato seeds. We invest intensively in research and development to provide solutions to growers and consumers in numerous countries around the world. In particular, we breed improved disease-resistant cultivars adapted to different markets globally. Currently, emphasis is placed on combining Tomato Yellow Leaf Curl Virus (TYLCV) and Tomato Spotted Wilt Virus (TSWV) resistances with other soil borne diseases into superior tomato breeding lines and hybrids. Moreover, comprehensive efforts are being undertaken to develop varieties resistance to TBRFV virus (Tomato Brown Rugose Fruit Virus). In terms of horticultural traits, breeding is for earliness, different fruit sizes, firmness, red fruit color, flavor, crack resistance, shelf life, and high/low temperature fruit set. Combinations of quality features and disease resistance are sought in a variety of types, namely round and elongated shapes. */
+
+position: absolute;
+width: 1097px;
+height: 290px;
+left: 405px;
+top: 803px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 150%;
+/* or 26px */
+
+/* Text color */
+color: #324950;
+
+
+
+/* Agirdera Tomato breeding programs are focusing on three main segments: Greenhouse Indeterminate Tomatoes, Open-field Indeterminate Tomatoes, and Bush Type Open-field Tomatoes. */
+
+position: absolute;
+width: 1036px;
+height: 54px;
+left: 435.5px;
+top: 1116.5px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 150%;
+/* or 26px */
+
+/* Text color */
+color: #324950;
+
+
+
+/* Agridera operates through international and local distributers around the world. */
+
+position: absolute;
+width: 647px;
+height: 26px;
+left: 435px;
+top: 1700px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 150%;
+/* identical to box height, or 26px */
+
+/* Text color */
+color: #324950;
+
+
+
+/* This breeding is aimed for the Spanish and Turkish markets. For single and cluster picks, round fruit shape and resistances of TYLCV, TSWV, Nematodes and FORL (Fusarium oxysporum f.sp. radicis-lycopersici). Some hybrids may include more resistances, such as Cladosporium and Leveillula Taurica (Lv). */
+
+position: absolute;
+width: 350px;
+height: 212px;
+left: 405px;
+top: 1341px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 150%;
+/* or 26px */
+
+/* Text color */
+color: #324950;
+
+
+
+/* This breeding is for Brazilian, Moroccan, and Turkish markets. The main focus is on large round shape fruits (200 grams plus); and resistances of TYLCV, TSWV, Nematodes and FORL. In the near future, F3 (Fusarium oxysporum f.sp. lycopersici) will be included as basic resistance in our cultivars. */
+
+position: absolute;
+width: 350px;
+height: 212px;
+left: 785px;
+top: 1341px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 150%;
+/* or 26px */
+
+/* Text color */
+color: #324950;
+
+
+
+/* This breeding is for Mediterranean markets. We breed round and elongated shapes, standard sizes (140- 180 grams), and beef sizes (min. 180 grams up to 300 grams and more). We combine the resistances of TYLCV, TSWV and Nematodes as basic resistances in our hybrids. However, some hybrids may include more resistances, such as Cladosporium and Leveillula Taurica (Lv). */
+
+position: absolute;
+width: 350px;
+height: 262px;
+left: 1165px;
+top: 1341px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 150%;
+/* or 26px */
+
+/* Text color */
+color: #324950;
+
+
+
+/* Rectangle 27 */
+
+position: absolute;
+width: 4px;
+height: 60px;
+left: 405.5px;
+top: 1113.5px;
+
+/* #EB5757 */
+background: #EB5757;
+border-radius: 4px;
+
+
+/* Rectangle 29 */
+
+position: absolute;
+width: 4px;
+height: 40px;
+left: 405px;
+top: 1693px;
+
+/* #EB5757 */
+background: #EB5757;
+border-radius: 4px;
+
+
+/* Greenhouse Tomato Breeding Program */
+
+position: absolute;
+width: 350px;
+height: 58px;
+left: 405px;
+top: 1253.5px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 142.7%;
+/* or 29px */
+
+/* Text color */
+color: #324950;
+
+
+
+/* Open-field Indeterminate Tomatoes */
+
+position: absolute;
+width: 325px;
+height: 58px;
+left: 785px;
+top: 1253.5px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 142.7%;
+/* or 29px */
+
+/* Text color */
+color: #324950;
+
+
+
+/* Open-field Bush Type Tomatoes */
+
+position: absolute;
+width: 296.21px;
+height: 58px;
+left: 1165px;
+top: 1253.5px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 142.7%;
+/* or 29px */
+
+/* Text color */
+color: #324950;
+
+
+
+/* Line 2 */
+
+position: absolute;
+width: 350px;
+height: 0px;
+left: 405px;
+top: 1326.5px;
+
+/* Text color */
+border: 1px solid #324950;
+
+
+/* Line 3 */
+
+position: absolute;
+width: 350px;
+height: 0px;
+left: 785px;
+top: 1326.5px;
+
+/* Text color */
+border: 1px solid #324950;
+
+
+/* Line 4 */
+
+position: absolute;
+width: 350px;
+height: 0px;
+left: 1165px;
+top: 1326.5px;
+
+/* Text color */
+border: 1px solid #324950;
